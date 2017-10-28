@@ -1,0 +1,4 @@
+Simple HTTP server returning calendar entries for all cards with set due date. To be used with Lightning or similar calendar app (read-only).
+Yes, it's not the best solution, but it does the job (at least for me).
+Depends on: https://github.com/wekan/wekan-python-api-client
+
